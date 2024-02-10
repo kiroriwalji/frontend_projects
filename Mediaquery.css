@@ -1,0 +1,102 @@
+
+@media(max-width:1024px){
+    body{
+        min-width: 680px;
+    }
+    ul{
+        display: none;
+    }
+    .navbar-box1-info2{
+        display: none;
+    }
+    .navbar-box1{
+        /* width: 100%; */
+        display: flex;
+        justify-content: center;
+    }
+    .navbar-box2{
+ 
+        /* border: 2px solid rgb(255, 3, 3);     */
+   
+    }
+    .navbar-items-list{
+        /* border: 2px solid black; */
+     
+    }
+    .navbar-box2-logo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* border: 2px solid black;  */
+
+    }
+    .navber-collapse-icon{
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        color: black;
+        top: 30px;
+        font-size: 28px;
+
+    }
+
+    li{
+        display: none;
+    }
+    .navbar-box1-info2{
+        display: none;
+    }
+
+    .why-choose-us{
+        flex-direction: column;
+    }
+
+    .why-choose-us-img{
+
+        width: 100%;
+    }
+
+    .why-choose-us-content{
+        width: 100%;
+        height: auto;
+    }
+    .intro1{
+        flex-direction: column;
+    }
+    .gd-box1{
+        flex-direction: column;
+        padding: 100px;
+    }
+    .gd-box1-innerbox1{
+        width: 100%;
+    }
+    .gd-box1-innerbox2{
+        width: 100%;
+    }
+    .pop-courses-about{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .pop-courses-about1{
+        width: 50vw;
+    }
+    .footer-last{
+        flex-direction: column;
+        
+    }
+}
+@media (max-width:1024px) {
+    .introduction{
+        display: block;
+
+    }
+    .introduction1{
+        display: flex;
+        justify-content: center;
+    }
+    
+}
+
